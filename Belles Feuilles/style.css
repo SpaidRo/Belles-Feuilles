@@ -1,0 +1,319 @@
+    .topnav {
+        background-color: #F3F1F5;
+        height: 70px;
+        width: 1350px;
+        border: none;
+        border-radius: 100px;
+        position: absolute;
+        direction: rtl;
+    }
+    
+    .bu1 {
+        position: absolute;
+        font-size: 35px;
+        border: none;
+        border-radius: 50px;
+        outline: none;
+        right: 350px;
+        top: 20px;
+    }
+    
+    .bu2 {
+        position: absolute;
+        font-size: 35px;
+        border: none;
+        border-radius: 50px;
+        outline: none;
+        right: 550px;
+        top: 20px;
+    }
+    
+    .bu3 {
+        position: absolute;
+        font-size: 35px;
+        border: none;
+        border-radius: 50px;
+        outline: none;
+        right: 750px;
+        top: 20px;
+    }
+    
+    .bu4 {
+        position: absolute;
+        font-size: 35px;
+        border: none;
+        border-radius: 50px;
+        outline: none;
+        right: 970px;
+        top: 20px;
+    }
+    /* hover buttons */
+    
+    .bu1:hover {
+        position: absolute;
+        font-size: 45px;
+        border: none;
+        border-radius: 50px;
+        outline: none;
+        right: 350px;
+        top: 20px;
+    }
+    
+    .bu2:hover {
+        position: absolute;
+        font-size: 45px;
+        border: none;
+        border-radius: 50px;
+        outline: none;
+        right: 550px;
+        top: 20px;
+    }
+    
+    .bu3:hover {
+        position: absolute;
+        font-size: 45px;
+        border: none;
+        border-radius: 50px;
+        outline: none;
+        right: 750px;
+        top: 20px;
+    }
+    
+    .bu4:hover {
+        position: absolute;
+        font-size: 45px;
+        border: none;
+        border-radius: 50px;
+        outline: none;
+        right: 970px;
+        top: 20px;
+    }
+    
+    .img1 {
+        position: absolute;
+        top: 150px;
+        left: 120px;
+    }
+    
+    .rkn {
+        position: absolute;
+        top: 650px;
+        right: 120px;
+        font-size: 34px;
+        color: #d6be07;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .tab {
+        position: absolute;
+        top: 550px;
+        right: 50px;
+    }
+    
+    .txt1 {
+        font-size: 25px;
+        text-decoration: none;
+        position: absolute;
+        right: 130px;
+        top: 730px;
+    }
+    
+    .txt2 {
+        font-size: 25px;
+        text-decoration: none;
+        position: absolute;
+        right: 130px;
+        top: 770px;
+    }
+    
+    .txt1:hover {
+        font-size: 30px;
+        position: absolute;
+        right: 130px;
+        top: 730px;
+    }
+    
+    .txt2:hover {
+        font-size: 30px;
+        position: absolute;
+        right: 130px;
+        top: 770px;
+    }
+    
+    .rkn2 {
+        position: absolute;
+        top: 800px;
+        right: 120px;
+        font-size: 34px;
+        color: #d6be07;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .txt3 {
+        font-size: 25px;
+        text-decoration: none;
+        position: absolute;
+        right: 130px;
+        top: 890px;
+    }
+    
+    .txt4 {
+        font-size: 25px;
+        text-decoration: none;
+        position: absolute;
+        right: 130px;
+        top: 940px;
+    }
+    
+    .txt3:hover {
+        font-size: 30px;
+        position: absolute;
+        right: 130px;
+        top: 890px;
+    }
+    
+    .txt4:hover {
+        font-size: 30px;
+        position: absolute;
+        right: 130px;
+        top: 940px;
+    }
+    
+    .maw {
+        position: absolute;
+        top: 250px;
+        font-size: 35px;
+        left: 500px;
+    }
+    
+    .maw:hover {
+        position: absolute;
+        top: 250px;
+        font-size: 40px;
+        left: 500px;
+        color: black;
+    }
+    
+    .mp4 {
+        position: absolute;
+        top: 350px;
+        left: 350px;
+    }
+    
+    .ads {
+        font-size: 25px;
+        text-decoration: none;
+        position: absolute;
+        right: 130px;
+        top: 630px;
+        color: red;
+    }
+    
+    .ads:hover {
+        font-size: 30px;
+        text-decoration: none;
+        position: absolute;
+        right: 130px;
+        top: 630px;
+    }
+    
+    .img11 {
+        position: absolute;
+        left: 340px;
+        top: 330px;
+    }
+    
+    .topbar {
+        height: 100px;
+        width: 1410px;
+        background: gray;
+        position: absolute;
+        left: 10px;
+        top: 1700px;
+    }
+    
+    .© {
+        position: absolute;
+        color: white;
+        top: 1700px;
+        left: 550px;
+    }
+    
+    .rkn3 {
+        position: absolute;
+        top: 540px;
+        right: 110px;
+        font-size: 34px;
+        color: #d6be07;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .date1 {
+        position: absolute;
+        top: 270px;
+        left: 450px;
+        font-size: 20px;
+        color: white;
+    }
+    /* اخبارات */
+    
+    .post1 {
+        position: absolute;
+        left: 350px;
+        top: 270px;
+    }
+    
+    .share {
+        position: absolute;
+        left: 700px;
+        height: 70px;
+        width: 70px;
+        top: 1060px;
+    }
+    
+    .By {
+        position: absolute;
+        color: rgb(255, 255, 255);
+        top: 1750px;
+        left: 100px;
+        font-size: 15px;
+    }
+    
+    .contacttopbar {
+        position: absolute;
+        color: rgb(179, 207, 16);
+        top: 1770px;
+        left: 600px;
+        font-size: 15px;
+    }
+    
+    .Ecole {
+        position: absolute;
+        color: rgb(179, 207, 16);
+        top: 1770px;
+        left: 700px;
+        font-size: 15px;
+    }
+    
+    .facepng {
+        position: absolute;
+        top: 250px;
+        left: 350px;
+        height: 70px;
+        width: 70px;
+    }
+    
+    .contact {
+        position: absolute;
+        top: 250px;
+        left: 850px;
+        height: 70px;
+        width: 70px;
+    }
+    
+    .emeil {
+        position: absolute;
+        top: 250px;
+        left: 500px;
+        font-size: 25px;
+    }
